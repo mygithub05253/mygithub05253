@@ -141,13 +141,13 @@
 <div align="center">
 
 [![Emoji Diary](https://github-readme-stats.vercel.app/api/pin/?username=mygithub05253&repo=Emoji-Diary-Final&theme=tokyonight)](https://github.com/mygithub05253/Emoji-Diary-Final)
-[![Finance Bot](https://github-readme-stats.vercel.app/api/pin/?username=mygithub05253&repo=finance-bot-project&theme=tokyonight)](https://github.com/mygithub05253/finance-bot-project)
+[![Dacon]([https://github-readme-stats.vercel.app/api/pin/?username=mygithub05253&repo=finance-bot-project&theme=tokyonight)](https://github.com/mygithub05253/finance-bot-project](https://github.com/mygithub05253/Dacon))
 
-[![Credit Risk Project](https://github-readme-stats.vercel.app/api/pin/?username=mygithub05253&repo=Credit_Risk_Project&theme=tokyonight)](https://github.com/mygithub05253/Credit_Risk_Project)
+[![gc-dating-app]([https://github-readme-stats.vercel.app/api/pin/?username=mygithub05253&repo=Credit_Risk_Project&theme=tokyonight)](https://github.com/mygithub05253/Credit_Risk_Project](https://github.com/mygithub05253/gc-dating-app))
 [![MyStockFolio2](https://github-readme-stats.vercel.app/api/pin/?username=mygithub05253&repo=MyStockFolio2&theme=tokyonight)](https://github.com/mygithub05253/MyStockFolio2)
 
 [![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=mygithub05253&repo=Algorithm&theme=tokyonight)](https://github.com/mygithub05253/Algorithm)
-[![Notion CMS](https://github-readme-stats.vercel.app/api/pin/?username=mygithub05253&repo=notion-cms-project&theme=tokyonight)](https://github.com/mygithub05253/notion-cms-project)
+[![PLAF-Homepage]([https://github-readme-stats.vercel.app/api/pin/?username=mygithub05253&repo=notion-cms-project&theme=tokyonight)](https://github.com/mygithub05253/notion-cms-project](https://github.com/mygithub05253/PLAF_Homepage))
 
 </div>
 
