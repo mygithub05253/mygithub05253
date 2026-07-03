@@ -4,6 +4,9 @@ on:
   schedule:
     # 매일 오전 9시 (KST) = 00:00 UTC
     - cron: "0 0 * * *"
+  # content-hub 발행 파이프라인이 CONTENT_DISPATCH_TOKEN으로 보내는 즉시 갱신 신호
+  repository_dispatch:
+    types: [content-updated]
   workflow_dispatch:
 
 jobs:

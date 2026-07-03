@@ -104,6 +104,15 @@ A student developer who **builds and open-sources Data/AI tools for the finance 
 
 <br/>
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<sub>velog 발행 시 자동 갱신됩니다 · powered by [content-hub](https://github.com/mygithub05253/content-hub)</sub>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <p align="center">
