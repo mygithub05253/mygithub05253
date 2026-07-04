@@ -107,6 +107,11 @@ A student developer who **builds and open-sources Data/AI tools for the finance 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [자동화 생태계 구축기 0 — 한 번 쓰면 모든 곳에 반영된다](https://velog.io/@kik328288/hello-automation-ecosystem)
+- [정보처리기사 실기 통합 요약본](https://velog.io/@kik328288/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%ED%86%B5%ED%95%A9-%EC%9A%94%EC%95%BD%EB%B3%B8)
+- [12장 제품 소프트웨어 패키징](https://velog.io/@kik328288/12%EC%9E%A5-%EC%A0%9C%ED%92%88-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%ED%8C%A8%ED%82%A4%EC%A7%95)
+- [11장 응용 SW 기초 기술 활용](https://velog.io/@kik328288/11%EC%9E%A5-%EC%9D%91%EC%9A%A9-SW-%EA%B8%B0%EC%B4%88-%EA%B8%B0%EC%88%A0-%ED%99%9C%EC%9A%A9)
+- [10장 프로그래밍 언어 활용](https://velog.io/@kik328288/10%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-%ED%99%9C%EC%9A%A9)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>velog 발행 시 자동 갱신됩니다 · powered by [content-hub](https://github.com/mygithub05253/content-hub)</sub>
