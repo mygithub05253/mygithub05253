@@ -46,7 +46,8 @@
 ### 🌐 웹 · 앱
 
 **데이팅 앱** &nbsp;`팀 프로젝트`
-팀으로 진행한 데이팅 앱 서비스 개발.
+팀 조직 [gc-code1piece](https://github.com/gc-code1piece)에서 함께 진행한 데이팅 앱 서비스.
+→ **[gc-code1piece/main](https://github.com/gc-code1piece/main)** &nbsp;`Public`
 
 **이모지 다이어리** &nbsp;`팀 프로젝트`
 이모지로 하루를 기록하는 다이어리 서비스를 팀으로 진행했습니다.
