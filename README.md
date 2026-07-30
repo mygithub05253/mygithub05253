@@ -5,7 +5,6 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://velog.io/@kik328288/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog"/></a>
   <a href="mailto:kik328288@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
@@ -20,7 +19,7 @@
 
 - 🎯 **Focus** — Finance × Data Analytics × AI Agents
 - 🌱 **Edge** — 컴퓨터공학(주전공) × 응용통계학(복수전공) × 금융수학(추가이수)의 융합
-- 🛠 **How I build** — AI 페어 프로그래밍으로 설계·구현·리뷰 사이클을 압축, 학습한 내용은 [Velog](https://velog.io/@kik328288/posts)에 정리
+- 🛠 **How I build** — AI 페어 프로그래밍으로 설계·구현·리뷰 사이클을 압축해, 혼자서도 아이디어를 끝까지 완성합니다
 
 <br/>
 
@@ -128,20 +127,10 @@ MCP · Skills · Agents 활용법을 학습하고 정리했습니다.
 
 <br/>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<sub>[Velog](https://velog.io/@kik328288/posts)에 학습 기록을 정리합니다. 위 목록은 GitHub Actions로 수동 갱신합니다.</sub>
-
-<br/>
-
 ## 📫 Contact
 
 <p>
   <a href="mailto:kik328288@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://velog.io/@kik328288/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog"/></a>
 </p>
 
 <sub>📄 각 프로젝트의 라이선스와 사용 조건은 해당 저장소의 표기를 따릅니다.</sub>
