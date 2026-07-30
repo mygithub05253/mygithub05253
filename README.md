@@ -1,46 +1,69 @@
 <!-- Header Banner -->
 <p align="center">
-  <a href="https://github.com/mygithub05253">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=DONGWON%20LEE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20%26%20open-sourcing%20Data%2FAI%20tools%20for%20Finance&descAlignY=60&descAlign=50" alt="header"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=DONGWON%20LEE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Finance%20%C3%97%20Data%20%C3%97%20AI%20Agents&descAlignY=60&descAlign=50" alt="header"/>
 </p>
 
 <!-- Social Badges -->
 <p align="center">
   <a href="https://velog.io/@kik328288/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog"/></a>
   <a href="mailto:kik328288@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/mygithub05253"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=mygithub05253&label=Profile%20Views&color=667eea&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-**금융 도메인의 데이터·AI 도구를 직접 만들고 오픈소스로 공개하는 학생 개발자입니다.**
-A student developer who **builds and open-sources Data/AI tools for the finance domain.**
+**금융 도메인의 데이터·AI 도구를 직접 만드는 학생 개발자입니다.**
 
 웹·앱 풀스택 경험을 기반으로, 지금은 **금융 데이터 분석(DX)과 AI 에이전트(AX)** 에 집중하고 있습니다.
-설계부터 구현까지 **AI 코딩 에이전트(Codex · Claude Code · MCP/Agents)를 적극 활용**해, 혼자서도 아이디어를 빠르게 동작하는 프로젝트로 만들고 공개합니다.
+설계부터 구현까지 **AI 코딩 에이전트(Codex · Claude Code · MCP/Agents)를 적극 활용**해, 아이디어를 빠르게 동작하는 결과물로 만듭니다.
 
 - 🎯 **Focus** — Finance × Data Analytics × AI Agents
 - 🌱 **Edge** — 컴퓨터공학(주전공) × 응용통계학(복수전공) × 금융수학(추가이수)의 융합
-- 🛠 **How I build** — AI 페어 프로그래밍으로 설계·구현·리뷰 사이클을 압축, 학습한 내용은 [Velog](https://velog.io/@kik328288/posts)에 공개
+- 🛠 **How I build** — AI 페어 프로그래밍으로 설계·구현·리뷰 사이클을 압축, 학습한 내용은 [Velog](https://velog.io/@kik328288/posts)에 정리
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-> 금융 · 데이터 · AI를 직접 만들고 공개한 결과물입니다. / Things I actually built and shipped.
+> **저장소 이관 작업이 진행 중입니다.**
+> 공개 준비가 끝난 저장소만 링크했고, 나머지는 이관 순서에 따라 링크를 추가할 예정입니다.
+> 링크가 없는 항목도 실제로 진행한 작업이며, 아래 서술이 기여 내용입니다.
 
-| Project | What it is | Stack | Role |
-| :--- | :--- | :--- | :--- |
-| **[stock-agent](https://github.com/mygithub05253/stock-agent)** 🏦 | 주식 분석·투자 보조 **AI 에이전트**. 16주 금융 부트캠프(BDAI PoCaT) **최종 팀 프로젝트** | Python | 팀 개발 · AI 에이전트 파이프라인 |
-| **[Credit_Risk_Project](https://github.com/mygithub05253/Credit_Risk_Project)** 💳 | **신용 위험 예측** 시스템 — 데이터 전처리부터 모델링까지 | Python | 데이터·모델 |
-| **[Research-Prompt-Engineering](https://github.com/mygithub05253/Research-Prompt-Engineering)** 🤖 | G.I.C 동아리 **리서치 자동화** — 프롬프트 엔지니어링으로 반복 조사 업무 단축 | HTML/AI | 기획·구현 |
-| **[Card-News](https://github.com/mygithub05253/Card-News)** 🗞️ | **AI 카드뉴스 자동 제작** 도구 | TypeScript | 풀스택 |
-| **[MyStockFolio2](https://github.com/mygithub05253/MyStockFolio2)** 📈 | 주식 **포트폴리오 관리** 웹 서비스 | JavaScript | 풀스택 |
-| **[Claude-Code-Study](https://github.com/mygithub05253/Claude-Code-Study)** 🧪 | Claude Code **MCP/Skills/Agents** 활용법 학습·정리 | TypeScript | 개인 연구 |
+### 💰 금융 · 퀀트 · 데이터
+
+**이스트소프트 AI 퀀트 4기** &nbsp;`2026` &nbsp;`부트캠프`
+금융자산 지식을 서비스 형태로 서빙하는 시스템을 구축하는 과정. 과정 산출물을 **과제 · 작업일지 · 대시보드** 저장소로 나눠 정리하고, 투자 분석 파트는 별도 공개 저장소로 분리했습니다.
+→ **[investment-analysis](https://github.com/EST-Bootcamp-Dongwon/investment-analysis)** &nbsp;`Public`
+<sub>이 저장소는 과정에서 강사님이 Public으로 배포하신 학습용 프로젝트를 **허락받아** 학습·확장한 결과물입니다. 원본 커밋 히스토리를 보존했습니다.</sub>
+
+**주식 분석 AI 에이전트** &nbsp;`팀 프로젝트` &nbsp;`Python`
+16주 금융 부트캠프(BDAI PoCaT) **최종 팀 프로젝트**. 주식 분석과 투자 판단을 보조하는 AI 에이전트 파이프라인을 팀으로 구현했습니다.
+
+**신용 위험 예측** &nbsp;`Python`
+데이터 전처리부터 모델링까지, 신용 위험을 예측하는 파이프라인을 구성했습니다.
+
+### 🌐 웹 · 앱
+
+**데이팅 앱** &nbsp;`팀 프로젝트`
+팀으로 진행한 데이팅 앱 서비스 개발.
+
+**이모지 다이어리** &nbsp;`팀 프로젝트`
+이모지로 하루를 기록하는 다이어리 서비스를 팀으로 진행했습니다.
+
+**주식 포트폴리오 관리 웹 서비스** &nbsp;`JavaScript`
+보유 종목과 수익률을 관리하는 웹 애플리케이션을 풀스택으로 구현했습니다.
+
+### 🤖 AI 도구 · 자동화
+
+**리서치 자동화** &nbsp;`G.I.C 동아리`
+프롬프트 엔지니어링으로 반복적인 조사 업무를 단축했습니다.
+
+**AI 카드뉴스 제작 도구** &nbsp;`TypeScript`
+콘텐츠를 카드뉴스 형태로 자동 생성하는 도구를 풀스택으로 만들었습니다.
+
+**Claude Code 활용 연구** &nbsp;`TypeScript`
+MCP · Skills · Agents 활용법을 학습하고 정리했습니다.
 
 <br/>
 
@@ -80,50 +103,36 @@ A student developer who **builds and open-sources Data/AI tools for the finance 
 
 ## 🎓 Education
 
-**Gachon University (가천대학교)** &nbsp;`2021.03 ~ Present`
+**가천대학교 (Gachon University)** &nbsp;`2021.03 ~ 재학 중`
 
-| Track | Field |
+| 구분 | 전공 |
 | :--- | :--- |
-| 🖥️ Main Major | Computer Engineering (컴퓨터공학) |
-| 📊 Double Major | Applied Statistics (응용통계학) |
-| 💰 Additional Coursework (15+ credits) | Big Data Management, School of Financial Mathematics (금융수학부 빅데이터매니지먼트) |
+| 🖥️ 주전공 | 컴퓨터공학 |
+| 📊 복수전공 | 응용통계학 |
+| 💰 추가이수 (15학점+) | 금융수학부 빅데이터매니지먼트 |
 
 <br/>
 
 ## 🏆 Certifications & Activities
 
-**Certifications** — SQLD (2025), ADsP (2024), 네트워크관리사 2급, ITQ OA, 정보처리기사(필기 합격)
+**자격증** — SQLD (2025), ADsP (2024), 네트워크관리사 2급, ITQ OA, 정보처리기사(필기 합격)
 <sub>한국데이터산업진흥원 · 한국정보통신자격협회 · 한국생산성본부 · 한국산업인력공단</sub>
 
-| Activity | Period | Role |
+| 활동 | 기간 | 역할 |
 | :--- | :---: | :--- |
-| **PLAF 1st Cohort** | `2026.03 ~` | AI Agent Study Group |
-| **BDAI 12th Cohort** | `2026 ~` | Big Data & AI Academic Society |
-| **G.I.C (IVY Club)** | `2025.06 ~` | Financial Investment Club |
-| **CodeIn** | `2024.03 ~` | Central Coding Club |
+| **PLAF 1기** | `2026.03 ~` | AI Agent 스터디 |
+| **BDAI 12기** | `2026 ~` | 빅데이터·AI 학술 소학회 |
+| **G.I.C (IVY Club)** | `2025.06 ~` | 금융투자 동아리 |
+| **CodeIn** | `2024.03 ~` | 중앙 코딩 동아리 |
 
 <br/>
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [자동화 생태계 구축기 0 — 한 번 쓰면 모든 곳에 반영된다](https://velog.io/@kik328288/hello-automation-ecosystem)
-- [정보처리기사 실기 통합 요약본](https://velog.io/@kik328288/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%ED%86%B5%ED%95%A9-%EC%9A%94%EC%95%BD%EB%B3%B8)
-- [12장 제품 소프트웨어 패키징](https://velog.io/@kik328288/12%EC%9E%A5-%EC%A0%9C%ED%92%88-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%ED%8C%A8%ED%82%A4%EC%A7%95)
-- [11장 응용 SW 기초 기술 활용](https://velog.io/@kik328288/11%EC%9E%A5-%EC%9D%91%EC%9A%A9-SW-%EA%B8%B0%EC%B4%88-%EA%B8%B0%EC%88%A0-%ED%99%9C%EC%9A%A9)
-- [10장 프로그래밍 언어 활용](https://velog.io/@kik328288/10%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-%ED%99%9C%EC%9A%A9)
 <!-- BLOG-POST-LIST:END -->
 
-<sub>velog 발행 시 자동 갱신됩니다 · powered by [content-hub](https://github.com/mygithub05253/content-hub)</sub>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mygithub05253&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mygithub05253&layout=compact&langs_count=8&theme=tokyonight" alt="top langs"/>
-</p>
+<sub>[Velog](https://velog.io/@kik328288/posts)에 학습 기록을 정리합니다. 위 목록은 GitHub Actions로 수동 갱신합니다.</sub>
 
 <br/>
 
@@ -132,10 +141,9 @@ A student developer who **builds and open-sources Data/AI tools for the finance 
 <p>
   <a href="mailto:kik328288@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://velog.io/@kik328288/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog"/></a>
-  <a href="https://github.com/mygithub05253"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<sub>📄 Projects in this profile are shared under the **MIT License** unless noted otherwise in each repository.</sub>
+<sub>📄 각 프로젝트의 라이선스와 사용 조건은 해당 저장소의 표기를 따릅니다.</sub>
 
 <!-- Footer -->
 <p align="center">
