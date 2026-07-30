@@ -1,0 +1,4 @@
+# Windows와 WSL을 번갈아 쓸 때 줄바꿈 차이로 전체 파일이 수정된 것처럼 보이는 문제를 막는다.
+# 저장소에는 항상 LF로 저장하고, 체크아웃도 LF로 한다.
+# 이 설정은 git 의 core.autocrlf 설정보다 우선한다.
+* text=auto eol=lf
