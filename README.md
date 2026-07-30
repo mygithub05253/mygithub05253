@@ -44,9 +44,11 @@
 
 ### 🌐 웹 · 앱
 
-**데이팅 앱** &nbsp;`팀 프로젝트`
-팀 조직 [gc-code1piece](https://github.com/gc-code1piece)에서 함께 진행한 데이팅 앱 서비스.
-→ **[gc-code1piece/main](https://github.com/gc-code1piece/main)** &nbsp;`Public`
+**Ember — 교환일기 기반 소개팅 앱** &nbsp;`팀 프로젝트` &nbsp;`Flutter` &nbsp;`Spring Boot`
+2026-1 가천대학교 캡스톤디자인, 팀 **코드한조각(Code1piece)** 5인 프로젝트. 사진 대신 **일기**로 관계를 시작합니다. 기존 소개팅의 `외형 → 대화 → 내면` 순서를 **`내면 → 교환 → 외형`** 으로 뒤집어, AI가 일기 글에서 성향이 닮은 상대를 먼저 찾아주고 교환일기로 신뢰를 쌓은 뒤 프로필을 공개하는 구조입니다. KcELECTRA로 감정·생활·관계·톤 **33차원 태그**를 추출하고, KoSimCSE 코사인 유사도로 매칭 점수를 산출합니다.
+**담당 (Backend)** — 사용자 인증, 매칭·교환일기 API, 데이터베이스 설계
+→ 원본 팀 저장소 **[gc-code1piece/main](https://github.com/gc-code1piece/main)** &nbsp;`Public` · 개인 보관 사본 **[gc-dating-app](https://github.com/dev-dongwon05253/gc-dating-app)** &nbsp;`Public`
+<sub>5인 공동 저작물이며, 원본에 라이선스 표기가 없어 재사용·재배포 권한은 부여되지 않습니다. 사본은 커밋 히스토리를 재작성하지 않고 그대로 보존했습니다.</sub>
 
 **이모지 다이어리** &nbsp;`팀 프로젝트`
 이모지로 하루를 기록하는 다이어리 서비스를 팀으로 진행했습니다.
