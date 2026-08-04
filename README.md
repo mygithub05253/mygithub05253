@@ -26,15 +26,13 @@
 ## 🚀 Projects
 
 > **저장소 이관 작업이 진행 중입니다.**
-> 공개 준비가 끝난 저장소만 링크했고, 나머지는 이관 순서에 따라 링크를 추가할 예정입니다.
+> 코드는 **GitHub · GitLab 양쪽에 보관**하며, 링크는 현재 접근 가능한 쪽을 가리킵니다.
 > 링크가 없는 항목도 실제로 진행한 작업이며, 아래 서술이 기여 내용입니다.
 
 ### 💰 금융 · 퀀트 · 데이터
 
 **이스트소프트 AI 퀀트 4기** &nbsp;`2026` &nbsp;`부트캠프`
-금융자산 지식을 서비스 형태로 서빙하는 시스템을 구축하는 과정. 과정 산출물을 **과제 · 작업일지 · 대시보드** 저장소로 나눠 정리하고, 투자 분석 파트는 별도 공개 저장소로 분리했습니다.
-→ **[investment-analysis](https://github.com/EST-Bootcamp-Dongwon/investment-analysis)** &nbsp;`Public`
-<sub>이 저장소는 과정에서 강사님이 Public으로 배포하신 학습용 프로젝트를 **허락받아** 학습·확장한 결과물입니다. 원본 커밋 히스토리를 보존했습니다.</sub>
+금융자산 지식을 서비스 형태로 서빙하는 시스템을 구축하는 과정. 과정 산출물을 **과제 · 작업일지 · 대시보드** 저장소로 나눠 정리하고, 투자 분석 파트를 별도로 분리해 정리했습니다.
 
 **주식 분석 AI 에이전트** &nbsp;`팀 프로젝트` &nbsp;`Python`
 16주 금융 부트캠프(BDAI PoCaT) **최종 팀 프로젝트**. 주식 분석과 투자 판단을 보조하는 AI 에이전트 파이프라인을 팀으로 구현했습니다.
@@ -47,13 +45,13 @@
 **Ember — 교환일기 기반 소개팅 앱** &nbsp;`팀 프로젝트` &nbsp;`Flutter` &nbsp;`Spring Boot`
 2026-1 가천대학교 캡스톤디자인, 팀 **코드한조각(Code1piece)** 5인 프로젝트. 사진 대신 **일기**로 관계를 시작합니다. 기존 소개팅의 `외형 → 대화 → 내면` 순서를 **`내면 → 교환 → 외형`** 으로 뒤집어, AI가 일기 글에서 성향이 닮은 상대를 먼저 찾아주고 교환일기로 신뢰를 쌓은 뒤 프로필을 공개하는 구조입니다. KcELECTRA로 감정·생활·관계·톤 **33차원 태그**를 추출하고, KoSimCSE 코사인 유사도로 매칭 점수를 산출합니다.
 **담당 (Backend)** — 사용자 인증, 매칭·교환일기 API, 데이터베이스 설계
-→ 원본 팀 저장소 **[gc-code1piece/main](https://github.com/gc-code1piece/main)** &nbsp;`Public` · 개인 보관 사본 **[gc-dating-app](https://github.com/dev-dongwon05253/gc-dating-app)** &nbsp;`Public`
+→ 원본 팀 저장소 **[gc-code1piece/main](https://github.com/gc-code1piece/main)** &nbsp;`Public` · 개인 보관 사본 **[gc-dating-app](https://gitlab.com/dev-dongwon05253/gc-dating-app)** &nbsp;`Public`
 <sub>5인 공동 저작물이며, 원본에 라이선스 표기가 없어 재사용·재배포 권한은 부여되지 않습니다. 사본은 커밋 히스토리를 재작성하지 않고 그대로 보존했습니다.</sub>
 
 **이모지 다이어리 — AI 감정 일기** &nbsp;`팀 프로젝트` &nbsp;`React` &nbsp;`Spring Boot` &nbsp;`Python`
 2025-2 가천대학교 팀 프로젝트. 하루의 일기를 쓰면 **KoBERT** 가 본문을 분석해 7가지 감정(행복·중립·당황·슬픔·분노·불안·혐오)으로 분류하고, **Google Gemini** 가 그 감정에 맞춰 **그림일기·공감 코멘트·위로가 되는 음식**을 생성합니다. 코멘트는 사용자가 고른 페르소나(베프·부모님·전문가·멘토·상담사·시인)의 말투로 나오며, 쌓인 기록은 캘린더·타임라인·통계 차트로 되짚어볼 수 있습니다.
 **담당** — 사용자 모바일 웹 화면 전반과 관리자 대시보드(서비스 통계·공지사항·시스템 설정·에러 로그), 백엔드·AI 서버 API 연동
-→ 개인 보관 사본 **[Emoji-Diary](https://github.com/dev-dongwon05253/Emoji-Diary)** &nbsp;`Public`
+→ 개인 보관 사본 **[Emoji-Diary](https://gitlab.com/dev-dongwon05253/emoji-diary)** &nbsp;`Public`
 <sub>팀 공동 저작물이며, 원본에 라이선스 표기가 없어 재사용·재배포 권한은 부여되지 않습니다. 사본은 보안을 위해 히스토리의 자격증명 문자열만 제거하고 나머지는 원본 그대로 보존했습니다.</sub>
 
 **주식 포트폴리오 관리 웹 서비스** &nbsp;`JavaScript`
