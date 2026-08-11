@@ -34,7 +34,7 @@
 
 ### 1. [주식 분석 AI 에이전트](https://gitlab.com/dev-dongwon05253/stock-agent-project)
 
-`팀 5인` `PM · 팀장 · 개발자` `LangGraph` `RAG` `PostgreSQL + pgvector` `2026`
+`2026` `팀 5인` `PM · 팀장 · 개발자` `커밋 기여 56%`
 
 > 국내 주식을 **정량 · 정성 · 경쟁사 · 거시** 4개 축으로 분석해 투자 판단을 보조하는 멀티에이전트 시스템.
 > 16주 금융 부트캠프(BDAI PoCaT) 최종 팀 프로젝트.
@@ -49,8 +49,24 @@
 - **Guardrail 레이어** — 금칙어 치환, 보장 표현 차단, 근거 부족 시 응답 block, 면책 문구 자동 삽입
 
 **🧰 Tech Stack**
-`Python` `LangGraph` `PostgreSQL 16 + pgvector` `sentence-transformers` `Pydantic 2` `Streamlit` `Langfuse` `RAGAS` `Docker Compose`
-데이터 — DART OpenAPI(재무·공시) · pykrx/KRX(시세) · 네이버 금융 뉴스 크롤러 · 한국은행 ECOS(거시지표 759건)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2016-4169E1?style=flat&logo=postgresql&logoColor=white)](#)
+[![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white)](#)
+[![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)](#)
+[![Pydantic](https://img.shields.io/badge/Pydantic%202-E92063?style=flat&logo=pydantic&logoColor=white)](#)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](#)
+[![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat)](#)
+[![RAGAS](https://img.shields.io/badge/RAGAS-6E56CF?style=flat)](#)
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](#)
+
+**📡 Data Source**
+[![DART](https://img.shields.io/badge/DART%20OpenAPI-1E40AF?style=flat)](#)
+[![pykrx](https://img.shields.io/badge/pykrx-003876?style=flat)](#)
+[![KRX](https://img.shields.io/badge/KRX-00559E?style=flat)](#)
+[![Naver](https://img.shields.io/badge/Naver%20Finance%20News-03C75A?style=flat&logo=naver&logoColor=white)](#)
+[![ECOS](https://img.shields.io/badge/BOK%20ECOS-0F4C81?style=flat)](#)
 
 **👤 본인 담당** — **PM 겸 팀장 겸 개발자** (전체 267 커밋 중 **150 커밋, 56%**)
 
@@ -105,7 +121,7 @@ Competitor Agent는 동종업계 3~5개사와 PER/PBR/ROE를 비교합니다. �
 
 ### 2. [Ember — 교환일기 기반 소개팅 앱](https://gitlab.com/dev-dongwon05253/gc-dating-app)
 
-`2026-1 캡스톤디자인` `팀 5인` `Spring Boot` `FastAPI` `Next.js` `Flutter` `AWS`
+`2026-1 캡스톤디자인` `팀 5인` `백엔드 2인 중 1인`
 
 > 사진 대신 **일기**로 관계를 시작합니다. 기존 소개팅의 `외형 → 대화 → 내면` 순서를 **`내면 → 교환 → 외형`** 으로 뒤집었습니다.
 
@@ -119,10 +135,38 @@ Competitor Agent는 동종업계 3~5개사와 PER/PBR/ROE를 비교합니다. �
 - **관리자 웹** — 사용자·콘텐츠·신고 관리, 분석 대시보드, 자동 알림·리포트·제재
 
 **🧰 Tech Stack**
-Backend — `Java` `Spring Boot` `Spring Security` `JPA` `PostgreSQL` `Redis` `RabbitMQ` `Flyway` `WebSocket` `FCM`
-AI — `Python` `FastAPI` `PyTorch` `KcELECTRA` `KoSimCSE`
-Client — `Flutter`(앱) · `Next.js 14` `TypeScript` `React Query` `Zustand` `Recharts`(관리자 웹)
-Infra — `Docker Compose` `Nginx` `AWS EC2` `Prometheus`
+
+`Backend`
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](#)
+[![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)](#)
+[![JPA](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](#)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](#)
+[![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/FCM-FFCA28?style=flat&logo=firebase&logoColor=black)](#)
+
+`AI Server`
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](#)
+[![KcELECTRA](https://img.shields.io/badge/KcELECTRA-FFD21E?style=flat&logo=huggingface&logoColor=black)](#)
+[![KoSimCSE](https://img.shields.io/badge/KoSimCSE-FFD21E?style=flat&logo=huggingface&logoColor=black)](#)
+
+`Client`
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js%2014-000000?style=flat&logo=nextdotjs&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
+[![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)](#)
+[![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat)](#)
+[![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat)](#)
+
+`Infra`
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)](#)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)](#)
+[![AWS EC2](https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat)](#)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](#)
 
 **👤 본인 담당** — 백엔드 2인 체제 중 1인
 
@@ -241,7 +285,7 @@ Access 30분은 **제재 반영 지연** 때문입니다. AT는 무상태라 관
 
 ### 3. [이모지 다이어리 — AI 감정 일기](https://gitlab.com/dev-dongwon05253/emoji-diary)
 
-`2025-2 팀 프로젝트` `React` `Spring Boot` `FastAPI` `KoBERT` `Gemini`
+`2025-2 팀 프로젝트` `프론트엔드 전반 담당`
 
 > 일기를 쓰면 AI가 감정을 분류하고, 그 감정에 맞는 **그림일기 · 공감 코멘트 · 위로가 되는 음식**을 만들어 줍니다.
 
@@ -255,8 +299,24 @@ Access 30분은 **제재 반영 지연** 때문입니다. AT는 무상태라 관
 - **관리자 대시보드** — 서비스 통계, 공지사항, 시스템 설정, 에러 로그
 
 **🧰 Tech Stack**
-`React 18` `Vite` `TypeScript` `Tailwind CSS` `Recharts` `framer-motion` `React Hook Form`
-`Java` `Spring Boot` · `Python` `FastAPI` `PyTorch` `KoBERT` `Google Gemini`
+
+`Frontend`
+[![React](https://img.shields.io/badge/React%2018-61DAFB?style=flat&logo=react&logoColor=black)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](#)
+[![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat)](#)
+[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)](#)
+[![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white)](#)
+
+`Backend · AI`
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](#)
+[![KoBERT](https://img.shields.io/badge/KoBERT-FFD21E?style=flat&logo=huggingface&logoColor=black)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)](#)
 
 **👤 본인 담당** — 프론트엔드 전반
 사용자 모바일 웹 화면 전체, 관리자 대시보드(서비스 통계·공지사항·시스템 설정·에러 로그), 백엔드·AI 서버 API 연동
@@ -333,7 +393,7 @@ Recharts 2.15 + framer-motion + Tailwind 조합입니다. Recharts를 고른 이
 
 ### 4. [G.I.C 리서치 자동화](https://gitlab.com/dev-dongwon05253/research-prompt-engineering)
 
-`개인 → 동아리 도입` `프롬프트 엔지니어링` `FastAPI` `v1.0 → v15.0`
+`개인 프로젝트` `동아리 도입` `v1.0 → v15.0`
 
 > 투자 동아리에서 매 기수 반복되던 리서치 리포트 작성을, **누구나 같은 절차로 같은 품질을 내는 도구**로 만들었습니다.
 
@@ -347,7 +407,17 @@ Recharts 2.15 + framer-motion + Tailwind 조합입니다. Recharts를 고른 이
 2. **웹 구현체** *(진행 중)* — 사람이 복붙하지 않아도 되도록 FastAPI 백엔드로 이관 중. KRX · KOSIS · FRED OpenAPI에서 실제 시세와 거시지표를 받아옵니다
 
 **🧰 Tech Stack**
-`프롬프트 엔지니어링` `Python(표준 라이브러리)` `FastAPI` `KRX / KOSIS / FRED OpenAPI` `Pandas` `Matplotlib`
+[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=flat)](#)
+[![Python](https://img.shields.io/badge/Python%20stdlib-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](#)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)](#)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat)](#)
+
+**📡 Data Source**
+[![KRX](https://img.shields.io/badge/KRX-00559E?style=flat)](#)
+[![KOSIS](https://img.shields.io/badge/KOSIS-2E5C8A?style=flat)](#)
+[![FRED](https://img.shields.io/badge/FRED-1B4F8A?style=flat)](#)
 
 **👤 본인 담당** — 기획부터 구현·배포·동아리 도입까지 전 과정 (개인 프로젝트)
 **v1.0부터 v15.0까지 15개 버전**을 거치며 개선했고, 각 버전을 지우지 않고 남겨 **설계 변화 자체를 기록**으로 두었습니다.
@@ -485,11 +555,11 @@ Recharts 2.15 + framer-motion + Tailwind 조합입니다. Recharts를 고른 이
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](#)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat)](#)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)](#)
 
 **🤖 AI Dev Tooling** &nbsp;`매일 사용`
-[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat&logo=openai&logoColor=white)](#)
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat)](#)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)](#)
 [![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)](#)
 
